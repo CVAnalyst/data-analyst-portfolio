@@ -1,7 +1,7 @@
 # Data Analyst Portfolio  
 
 ## About Me  
-Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education, business, and logistics**. I specialize in transforming raw data into actionable insights using **Excel, Power BI, and SQL**. This portfolio highlights projects that demonstrate skills in **data cleaning, visualization, and dashboard creation**.  
+Hi, I'm **Cherrita Vinson** — a data analyst with a background in education, business, and logistics. I specialize in transforming raw data into actionable insights using Excel, Power BI, and SQL. This portfolio highlights projects that demonstrate skills in data cleaning, visualization, and dashboard creation.  
 
 **Core Skills:**  
 - Excel (PivotTables, Dashboards, Conditional Formatting)  
@@ -18,7 +18,7 @@ Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education,
 **Tools:** Excel (PivotTables, Charts, Conditional Formatting)  
 - Analyzed pre-test data for 29 students across 5 Excel skill areas.  
 - Identified "Formulas" as the weakest section (70.3%), with only 6.7% meeting certification readiness.  
-- Built an **Excel dashboard with KPIs and charts** to guide targeted instruction.  
+- Built an Excel dashboard with KPIs and charts to guide targeted instruction.  
 
 Files:  
 - [Dataset](./datasets/gmetrix_excel_pretest_results.csv)  
@@ -30,7 +30,7 @@ Files:
 **Tools:** Excel, Power BI (optional)  
 - Compiled and analyzed 2 months of school store sales data.  
 - Identified top-selling products and peak sales times.  
-- Created an **interactive dashboard** with revenue by category, KPIs, and trend charts.  
+- Created an interactive dashboard with revenue by category, KPIs, and trend charts.  
 
 Files:  
 - [Dataset](./datasets/school_store_sales.csv)  
@@ -41,8 +41,8 @@ Files:
 ### 3. East Coast Freight Route Profitability Analysis  
 **Tools:** Excel  
 - Evaluated freight route data (miles, fuel cost, revenue).  
-- Found Atlanta–Miami was the **least profitable** route, while Atlanta–PA/NJ delivered the **highest margins**.  
-- Designed an **Excel dashboard** with KPIs and charts to optimize route assignments.  
+- Found Atlanta–Miami was the least profitable route, while Atlanta–PA/NJ delivered the highest margins.  
+- Designed an Excel dashboard with KPIs and charts to optimize route assignments.  
 
 Files:  
 - [Dataset](./datasets/east_coast_routes.csv)  
@@ -52,13 +52,13 @@ Files:
 
 ## How to Use This Portfolio  
 1. Clone this repository.  
-2. Open the **datasets** folder for raw data.  
-3. Open the **dashboards** folder for Excel/Power BI dashboards.  
-4. Explore project write-ups in the **docs** folder.  
+2. Open the datasets folder for raw data.  
+3. Open the dashboards folder for Excel/Power BI dashboards.  
+4. Explore project write-ups in the docs folder.  
 
 ---
 
 ## Connect With Me  
 - **Name:** Cherrita Vinson  
-- **Email:** cbinns1908@gmail.com    
-- **GitHub:** CVAnalyst  
+- **Email:** [cbinns1908@gmail.com](mailto:cbinns1908@gmail.com)    
+- **GitHub:** [github.com/cvanalyst](https://github.com/cvanalyst)  
