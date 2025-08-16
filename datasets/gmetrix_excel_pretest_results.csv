@@ -1,0 +1,146 @@
+Student,Grade,Section,Score
+Student_1,11,Formulas,78
+Student_1,11,Data Analysis,64
+Student_1,11,Charts,92
+Student_1,11,Formatting,57
+Student_1,11,Workbook Management,70
+Student_2,11,Formulas,68
+Student_2,11,Data Analysis,72
+Student_2,11,Charts,60
+Student_2,11,Formatting,60
+Student_2,11,Workbook Management,73
+Student_3,9,Formulas,85
+Student_3,9,Data Analysis,89
+Student_3,9,Charts,73
+Student_3,9,Formatting,52
+Student_3,9,Workbook Management,71
+Student_4,9,Formulas,51
+Student_4,9,Data Analysis,73
+Student_4,9,Charts,93
+Student_4,9,Formatting,79
+Student_4,9,Workbook Management,87
+Student_5,10,Formulas,70
+Student_5,10,Data Analysis,82
+Student_5,10,Charts,61
+Student_5,10,Formatting,71
+Student_5,10,Workbook Management,93
+Student_6,9,Formulas,98
+Student_6,9,Data Analysis,76
+Student_6,9,Charts,91
+Student_6,9,Formatting,77
+Student_6,9,Workbook Management,65
+Student_7,11,Formulas,96
+Student_7,11,Data Analysis,93
+Student_7,11,Charts,52
+Student_7,11,Formatting,86
+Student_7,11,Workbook Management,56
+Student_8,9,Formulas,58
+Student_8,9,Data Analysis,88
+Student_8,9,Charts,67
+Student_8,9,Formatting,53
+Student_8,9,Workbook Management,74
+Student_9,12,Formulas,63
+Student_9,12,Data Analysis,99
+Student_9,12,Charts,58
+Student_9,12,Formatting,75
+Student_9,12,Workbook Management,51
+Student_10,12,Formulas,77
+Student_10,12,Data Analysis,96
+Student_10,12,Charts,56
+Student_10,12,Formatting,93
+Student_10,12,Workbook Management,57
+Student_11,11,Formulas,84
+Student_11,11,Data Analysis,63
+Student_11,11,Charts,66
+Student_11,11,Formatting,85
+Student_11,11,Workbook Management,99
+Student_12,12,Formulas,53
+Student_12,12,Data Analysis,51
+Student_12,12,Charts,55
+Student_12,12,Formatting,91
+Student_12,12,Workbook Management,53
+Student_13,10,Formulas,78
+Student_13,10,Data Analysis,67
+Student_13,10,Charts,75
+Student_13,10,Formatting,93
+Student_13,10,Workbook Management,83
+Student_14,10,Formulas,85
+Student_14,10,Data Analysis,63
+Student_14,10,Charts,80
+Student_14,10,Formatting,97
+Student_14,10,Workbook Management,64
+Student_15,12,Formulas,63
+Student_15,12,Data Analysis,72
+Student_15,12,Charts,89
+Student_15,12,Formatting,70
+Student_15,12,Workbook Management,65
+Student_16,9,Formulas,67
+Student_16,9,Data Analysis,96
+Student_16,9,Charts,73
+Student_16,9,Formatting,75
+Student_16,9,Workbook Management,74
+Student_17,12,Formulas,94
+Student_17,12,Data Analysis,90
+Student_17,12,Charts,78
+Student_17,12,Formatting,64
+Student_17,12,Workbook Management,94
+Student_18,9,Formulas,74
+Student_18,9,Data Analysis,56
+Student_18,9,Charts,58
+Student_18,9,Formatting,73
+Student_18,9,Workbook Management,50
+Student_19,12,Formulas,57
+Student_19,12,Data Analysis,73
+Student_19,12,Charts,60
+Student_19,12,Formatting,66
+Student_19,12,Workbook Management,57
+Student_20,11,Formulas,84
+Student_20,11,Data Analysis,82
+Student_20,11,Charts,54
+Student_20,11,Formatting,91
+Student_20,11,Workbook Management,88
+Student_21,10,Formulas,90
+Student_21,10,Data Analysis,77
+Student_21,10,Charts,56
+Student_21,10,Formatting,58
+Student_21,10,Workbook Management,57
+Student_22,12,Formulas,83
+Student_22,12,Data Analysis,82
+Student_22,12,Charts,97
+Student_22,12,Formatting,72
+Student_22,12,Workbook Management,73
+Student_23,9,Formulas,84
+Student_23,9,Data Analysis,93
+Student_23,9,Charts,89
+Student_23,9,Formatting,71
+Student_23,9,Workbook Management,76
+Student_24,11,Formulas,50
+Student_24,11,Data Analysis,84
+Student_24,11,Charts,86
+Student_24,11,Formatting,96
+Student_24,11,Workbook Management,63
+Student_25,11,Formulas,50
+Student_25,11,Data Analysis,54
+Student_25,11,Charts,75
+Student_25,11,Formatting,63
+Student_25,11,Workbook Management,88
+Student_26,11,Formulas,58
+Student_26,11,Data Analysis,64
+Student_26,11,Charts,64
+Student_26,11,Formatting,75
+Student_26,11,Workbook Management,91
+Student_27,12,Formulas,62
+Student_27,12,Data Analysis,81
+Student_27,12,Charts,88
+Student_27,12,Formatting,98
+Student_27,12,Workbook Management,81
+Student_28,12,Formulas,79
+Student_28,12,Data Analysis,86
+Student_28,12,Charts,72
+Student_28,12,Formatting,88
+Student_28,12,Workbook Management,94
+Student_29,11,Formulas,92
+Student_29,11,Data Analysis,78
+Student_29,11,Charts,85
+Student_29,11,Formatting,62
+Student_29,11,Workbook Management,81
