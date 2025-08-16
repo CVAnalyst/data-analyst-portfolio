@@ -1,6 +1,6 @@
-# 📊 Data Analyst Portfolio  
+# Data Analyst Portfolio  
 
-## 👋 About Me  
+## About Me  
 Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education, business, and logistics**. I specialize in transforming raw data into actionable insights using **Excel, Power BI, and SQL**. This portfolio highlights projects that demonstrate skills in **data cleaning, visualization, and dashboard creation**.  
 
 **Core Skills:**  
@@ -12,7 +12,7 @@ Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education,
 
 ---
 
-## 🔹 Projects  
+## Projects  
 
 ### 1. GMetrix Microsoft Excel Pre-Test Analysis  
 **Tools:** Excel (PivotTables, Charts, Conditional Formatting)  
@@ -20,7 +20,7 @@ Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education,
 - Identified "Formulas" as the weakest section (70.3%), with only 6.7% meeting certification readiness.  
 - Built an **Excel dashboard with KPIs and charts** to guide targeted instruction.  
 
-📂 Files:  
+Files:  
 - [Dataset](./datasets/gmetrix_excel_pretest_results.csv)  
 - [Dashboard](./dashboards/gmetrix_excel_dashboard.xlsx)  
 
@@ -32,7 +32,7 @@ Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education,
 - Identified top-selling products and peak sales times.  
 - Created an **interactive dashboard** with revenue by category, KPIs, and trend charts.  
 
-📂 Files:  
+Files:  
 - [Dataset](./datasets/school_store_sales.csv)  
 - [Dashboard](./dashboards/school_store_sales_dashboard.xlsx)  
 
@@ -44,13 +44,13 @@ Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education,
 - Found Atlanta–Miami was the **least profitable** route, while Atlanta–PA/NJ delivered the **highest margins**.  
 - Designed an **Excel dashboard** with KPIs and charts to optimize route assignments.  
 
-📂 Files:  
+Files:  
 - [Dataset](./datasets/east_coast_routes.csv)  
 - [Dashboard](./dashboards/east_coast_routes_dashboard.xlsx)  
 
 ---
 
-## 🚀 How to Use This Portfolio  
+## How to Use This Portfolio  
 1. Clone this repository.  
 2. Open the **datasets** folder for raw data.  
 3. Open the **dashboards** folder for Excel/Power BI dashboards.  
@@ -58,8 +58,7 @@ Hi, I'm **Cherrita Vinson** — a data analyst with a background in **education,
 
 ---
 
-## 📬 Connect With Me  
+## Connect With Me  
 - **Name:** Cherrita Vinson  
-- **Email:** cbinns1908@gmail.com  
-- **LinkedIn:** [Add your LinkedIn URL]  
+- **Email:** cbinns1908@gmail.com    
 - **GitHub:** [Add your GitHub URL]  
